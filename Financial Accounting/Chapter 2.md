@@ -82,16 +82,30 @@ Earnings (loss) per share (EPS): Dividing the net income for the current period 
 <span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Zuvio Chapter 2</span>
 
 ## Statement of Changes in Equity
+"year ended"
 
 #### Format
+##### Statement of Changes in Equity
 ```
-< Balance as of Dec 31, 2020
+                                Outstanding Number of   Capital   Retained   Other    Total
+                                 Shares in Thousands     Stock    Earnings   Equity   Equity
+< Balance as of Dec 31, 2021             210             $2,100     $464      $780    $3,344
++ Net income                                                         257                 257
++ Other comprehensive income                                                              -
+- Dividend distributed                  ______          _______    _(110)_   _____   ___(110)_
+> Balance as of Dec 31, 2022             210             $2,100     $611      $780    $3,491
+                                        ======          =======    =======   =====   =========
+```
+
+##### Statement of Retained Earnings
+```
+< Balance as of Dec 31, 2021
 + Net Income
   ------------
   <sum>
 - Dividends distributed
   ------------
-> Balance as of Dec 31, 2021
+> Balance as of Dec 31, 2022
   ============
 ```
 

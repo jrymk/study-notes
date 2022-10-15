@@ -101,7 +101,7 @@ When an expense happens, no assets are returned. When a revenue happens, no asse
 	- Small companies might only have one journal called a "general journal"
 	- Large companies might use special journals like "cash receipts journal" as well as a general journal
 
-#### Format for Journalizing
+### Format for Journalizing
 - The debit entry is listed first
 - The credit entry is listed second and is indented to the right
 - The date and a brief explanation of the transaction are considered essential parts of the journal entry
@@ -133,59 +133,18 @@ Making a journal entry involves
 	- Interest Expense (- EQUITY-Retained Earnings-Expense) Debit $20
 		- Cash (- ASSET) Credit $178
 
-* Buying inventory
+* Buying inventory *(no asset lost here)*
 	* <span style="color: var(--green)">Inventory (+ ASSET) Debit $150</span>
 		* <span style="color: var(--orange)">Cash (- ASSET) Credit $150</span>
 * Selling half of the inventory for $90
-	* <span style="color: var(--orange)">Cash (+ ASSET) Debit $90</span>
+	* <span style="color: var(--orange)"><b>Cost of Goods Sold</b> (- EQUITY-Retained Earnings-Expense) Debit $75</span>
+		* <span style="color: var(--green)">Inventory (- ASSET) Credit $75</span> *(assets lost here)*
+	* <span style="color: var(--orange)">Cash (+ ASSET) Debit $90</span> *(assets gained back here)*
 		* Sales Revenue (+ EQUITY-Retained Earnings-Revenue) Credit $90
-	* <span style="color: var(--orange)">Cost of Goods Sold (- EQUITY-Retained Earnings-Expense) Debit $75</span>
-		* <span style="color: var(--green)">Inventory (- ASSET) Credit $75</span>
 
-<!---
-Example:
-```
- Date     Description                                              Post. Ref.   Debit  Credit
- 
- 2022
- July 1   Cash [+ ASSET]                                                        2,000
-            Capital Stock [+ EQUITY]                                                    2,000
-			  Issued 200 shares of capital stock at $10 per share
-      
-	  1   Cash [+ ASSET]                                                        2,000
-	        Notes Payable [+ LIABILITY]                                                 2,000
-			  Borrowed $2,000 from xxx bank, signing a 12-month
-			  note at 12% interest
-			  
-	  5   Transportation Equipment [+ ASSET]                                      800
-	        Cash [- ASSET]                                                                800
-			  Purchased a used truck
-	  
-	  5   Machinery Equipment [+ ASSET]                                           250
-	        Accounts Payable [+ LIABILITY]                                                250
-		      Purchased a lawnmower on account
-			  
-	  5   Supplies [+ ASSET]                                                      180
-	        Cash [- ASSET]                                                                180
-			  Purchased supplies for cash
-			  
-	  7   Inventory [+ ASSET]                                                     150
-	        Cash [- ASSET]                                                                150
-			  Purchased inventory (shrubs) for cash
-			  
-	  9   Cash [+ ASSET]                                                          270
-	      Accounts Receivable [+ ASSET]                                            80
-			Lawn Care Revenue [+ EQUITY:Retained Earnings]                                350
-			  To record revenue for lawn care services
-		
-	 14   Cash [+ ASSET]                                                           90
-	        Sales Revenue [+ EQUITY:Retained Earnings]                                     90
-		  Cost of Goods Sold [- EQUITY:Retained Earnings]                          75
-		    Inventory [- ASSET]                                                            75
-			  To record the cost of inventory (half of shrubs) sold (for $90)
-			  and to reduce inventory for its cost
-```
--->
+<span class="question">Question</span>Journal entry for "The firm arranged for a $225,000 line of credir (the right to borrow funds as needed) from the bank. No funds have yet been borrowed"? 
+<span class="answer">Answer</span>No journal entry
+<span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Quiz I problem V.</span>
 
 ## Step 3: Summarize the effects of transactions
 ### Posting journal entries
@@ -195,7 +154,6 @@ Example:
 ### Preparing a trial balance
 - Trial balance: A listing of all account balances. Provides a means of **testing whether total debits equal total credits for all accounts**
 It is very different from balance sheet. A trial balance is strictly an **internal document** used to summarize all of the account balances in a company's accounting system.
-
 
 ## Step 4: Prepare reports
 [[Chapter 4]]
