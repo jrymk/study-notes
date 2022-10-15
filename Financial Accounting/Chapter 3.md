@@ -3,6 +3,10 @@
 - Accounting cycle: The procedure for analyzing, recording, classifying, summarizing, and reporting the transactions of a business
 - Business documents: Records of transactions used as the basis for recording accounting entries, include invoices, check stubs, receipts, and similar business papers and is often used (1) to confirm that a transaction has occured, (2) to establish the amounts to be recorded, and (3) to facilitate the analysis of business events.
 
+<span class="question">Question</span>Which of the following is NOT a reason that business documents are used in a business?
+<span class="answer">Answer</span>To forecast sales
+<span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Quiz I problem I.6</span>
+
 ## Sequence of the Accounting Cycle
 1. Analyze transactions
 2. Record the effects of transactions
@@ -14,9 +18,9 @@
 	- preparing financial statements
 	- closing the books
 
-- Events that cannot be reliably measured in monetary terms will not be reflected in the financial statements <span style="font-size:smaller;">[[Chapter 2#^monetary]]</span>
+- Events that cannot be reliably measured in monetary terms will not be reflected in the financial statements [[Chapter 2#^monetary]]
 	- Information relating to the competitive environment, product development, and marketing and sales efforts is included in a company's annual report to stockholders, but not as part of the accounting information
-- Determine if an arm's-length transaction has occurred <span style="font-size:smaller;">[[Chapter 2#^arms-length]]</span>
+- Determine if an arm's-length transaction has occurred [[Chapter 2#^arms-length]]
 	- Company A signing a contrct with company B to purchase products in the future would not be reflected in the financial statements until the products are manufactured and delivered and company A has agreed to pay for them
 
 ## Step 1: Analyze transactions
@@ -62,14 +66,13 @@ ASSET (Office Equipment) +15,000, **ASSET (Cash) -15,000**
 	- Equity accounts usually have credit balances (+)
 - **Debits always equal credits for every transaction**
 	- Investment of $50,000 by owners
-	ASSET (Dr.) +50,000, EQUITY (Cr.) +50,000
+		ASSET (Dr.) +50,000, EQUITY (Cr.) +50,000
 	- Borrowed $25,000 from bank and signed a note to the bank:
-	ASSET (Dr.) +25,000, LIABILITY (Cr.) +25,000
+		ASSET (Dr.) +25,000, LIABILITY (Cr.) +25,000
 	- Purchased $14,000 worth of supplies on credit
-	ASSET (Dr.) +14,000, LIABILITY (Cr.) +14,000
+		ASSET (Dr.) +14,000, LIABILITY (Cr.) +14,000
 	- Purchased office equipment costing $15,000 for cash
-	ASSET (Dr.) +15,000, **ASSET (Cr.) +15,000**
-	
+		ASSET (Dr.) +15,000, **ASSET (Cr.) +15,000**
 	
 ### Expanded Accounting Equation
 ```

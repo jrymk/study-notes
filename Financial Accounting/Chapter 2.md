@@ -23,7 +23,7 @@ As of a particular date
         - Capital stock (the amount given by shareholders to obtain shares of stock from a company)
         - Retained earnings
 
-<span class="question">Question</span>Which of these is an economic asset that is NOT bfound on the balance sheet?
+<span class="question">Question</span>Which of these is an economic asset that is NOT found on the balance sheet?
 <span class="answer">Answer</span>Company's reputation <span class="incorrect">Incorrect</span>Goodwill
 
 ---
@@ -77,6 +77,9 @@ Earnings (loss) per share (EPS): Dividing the net income for the current period 
   ============
 ```
 
+<span class="question">Question</span>The financial statement that presents a summary of the revenues and expenses of a business for a specific period of time, such as a month or a year, is called a...
+<span class="answer">Answer</span>Statement of changes in equity <span class="incorrect">Incorrect</span>Statement of Cash Flows, Statement of Changes in Equity
+<span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Zuvio Chapter 2</span>
 
 ## Statement of Changes in Equity
 
@@ -100,20 +103,20 @@ Earnings (loss) per share (EPS): Dividing the net income for the current period 
         - Payments to purchase inventory
         - Wages
         - Taxes
+        - Utilities
+        - Rent
         - *Interest payments*
         - *Dividends payments*
         - *Interest receipts*
         - *Dividends receipts*
-        - Utilities
-        - Rent
 - **INVESTING ACTIVITIES**
-    - Activites associated with buting and selling long-term assets
+    - Activites associated with <mark style="--col: var(--hyellow);">buying and selling long-term assets</mark>
     - Includes:
         - Purchase and sale of land, buildings, and equipment
         - ***Interest receipts***
         - ***Dividends receipts***
 - **FINANCING ACTIVITIES**
-    - Activities whereby cash is obtained from or repaid to owners and creditors
+    - Activities whereby <mark style="--col: var(--hyellow);">cash is obtained from or repaid to owners and creditors</mark>
         - Cash received from owners' investments
         - Cash proceeds from a loan
         - Cash payments to repay loans
@@ -148,8 +151,12 @@ t Financing activities
   ============
 ```
 
+<span class="question">Question</span>Issuance of stock for cash would be classified and reported under... <span class="answer">Answer</span>Financial activities
+<span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Quiz I problem II.f</span>
+
 ## Notes to the Financial Statements
 1. Summary of significant accounting policies
+   Explain the company's accounting assumptions and practices
 2. Additional information about the summary totals found in the financial statements
 3. Disclosure of important information that is not recognized in the financial statements
 	   Disclosure is the accepted way to convey information to users **when the information is too uncertain to be recognized**.
@@ -159,6 +166,19 @@ t Financing activities
 	   Not include the estimates and judgements in the financial statements. Instead, they are explained in the notes to the financial statements.
 4. Supplementary information required by the IASB
 
+<span class="question">Question</span>Which of the following is an example of a significant accounting policy that would be explained in the notes to the financial statements?
+<span class="answer">Answer</span> The method used to estimate depreciation on a piece of equipment
+<span class="incorrect">Incorrect</span>The disclosure of the uncertain, potential outcome of a lawsuit
+<span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Quiz I problem I.5</span>
+
+## The External Audit
+- A company's financial statements are often audited by an independent certified public accountant
+- The accuracy of the statements must remain the responsibility of the company's management
+- Audited financial statements are required before a company can sell securities, like shares, stocks, and bonds, to the general public
+- The audit firms are hired and paid by the company being audited, but we can trust the quality of the audit because...
+	- Reputation: It would be reluctant to rish the audit firm's reputation by signing off on questionable statements
+	- Lawsuits: Auditors are being sued all the time (by investors) even when they conduct  good audit. An auditor who intentionally approves a false set of financial statements is at great risk of losing a big lawsuit
+
 ## Fundamental Concepts and Assumptions
 - **The separate entity concept** ^separate-entity
     - An entity is considered to be separate from its individual owners
@@ -166,10 +186,10 @@ t Financing activities
 - **The time-period assumption** ^time-period-assumption
     - The idea used to report the results of activities over a standard time period (monthly, quarterly, annually)
     - Users can be informed of the company's financial position, operating performance, and cash flows in a timely manner
-- **The assumption of arm's-length transactions** ^arms-length
+- <b>The assumption of <mark style="--col: var(--hyellow);">arm's-length transactions</mark></b> ^arms-length
     - Both parties are rational and free to act independently, each trying to make the best deal possible in establishing the terms of the transaction
     - Transactions: Exchanges of economic resources between separate entities AND events that have an economic impact on a business independently, like the loss in value of equipment due to obsolescence or fire
-    - Arm's-length transactions: Business dealings between independent and rational parties who are looking out for their own interests
+    - Arm's-length transactions: Business dealings between independent and **rational parties** who are **looking out for their own interests**
 - **The cost principle** ^cost-principle
     - Record transactions at historical cost, the amount originally paid or received for goods and services in arm's-length transactions
 - **The fair value principle** ^fair-value

@@ -42,9 +42,7 @@ Accounting is a system for providing **quantitative** information, primarily **f
 
 <span class="question">Question</span>Which of the following is NOT a function of accounting?
 <span class="answer">Answer</span>Executing sales transactions for organizations
-
-<span class="question">Question</span>Which of the following is NOT a reason that business documents are used in a business?
-<span class="answer">Answer</span>To forecast sales
+<span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Zuvio Chapter 1</span>
 
 ## Who Uses Accounting Information
 - **Internal** reporting (management accounting 管理會計)
@@ -70,6 +68,7 @@ Accounting is a system for providing **quantitative** information, primarily **f
 
 <span class="question">Question</span>The primary internal group that uses accounting information is...
 <span class="answer">Answer</span>Management
+<span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Zuvio Chapter 1</span>
 
 ## Within What Kind of Environment Does Accounting Operate?
 - The Environment of Accounting: Important factors that influence the environment in which accounting operates
@@ -120,6 +119,7 @@ Accounting is a system for providing **quantitative** information, primarily **f
 <span class="question">Question</span>Generally accepted accounting principles(GAAP) are...
 <span class="answer">Answer</span>Developed by accounting rule makers
 <span class="incorrect">Incorrect</span>Natural laws, Based on scientific proofs
+<span class="source">source: Financial Accounting (A)(I)(1) Fall 2022 Quiz I problem I.2</span>
 
 ## So, Why Should I Study Accounting?
 - Career Opportunities in Accounting
